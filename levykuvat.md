@@ -28,6 +28,7 @@
 ##### Levykuvan ottaminen Virtualboxissa
 
 - Sysprep ohjelman ajamisen jälkeen kone sammuu, **älä käynnistä**. Virtualboxissa klikataan konetta hiiren oikealla ja klikataan Export to OCI. valitaan muodoksi Open Virtualization Format 2.0 ja valitaan minne levykuva halutaan tallentaa. Painetaan next jolloin voidaan halutessaan lisätä tietoja koneesta. Sen jälkeen voidaan painaa Export. Saat valitsemaasi sijaintiin levykuvan.
+![Levykuva virtualboxissa](virtualbox1.png "Virtualboxin levykuvan ottaminen")
 
 ##### Levykuvan käyttäminen Virtualboxissa
 
